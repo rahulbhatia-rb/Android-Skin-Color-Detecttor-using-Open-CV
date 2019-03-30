@@ -34,8 +34,4 @@ Feature3:   You are provided with series of colored images.
 			--CLick on unlock, Select the 5 color patters on the same image. Within 7-8 tries, the databse matches the touched colors, identifies the user and 	    displays a toast-saying whether pattern is matched or not. If the user is matched, the hidden file from the storage appears on the screen. If user is not matched, the file is not opened.
 	
 
-### Screenshots
-![alt tag](Feature2.png)
-
-![alt tag](2017_04_28_06_47_03.png)
 
